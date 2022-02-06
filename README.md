@@ -7,3 +7,7 @@ Project developed for fun to get a basic understanding of reinforcement learning
 
 Current main challange:
 - Achieve good performance on one model <- looking for parameters of the env and a Q-learning agent that would give good results
+
+Example of current performance:
+
+![Screen Recording 2022-02-06 at 17 49 18](https://user-images.githubusercontent.com/74935134/152691696-a15fbf13-2baf-4c57-91db-60ec43700496.gif)
