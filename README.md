@@ -10,4 +10,5 @@ Current main challange:
 
 Example of current performance:
 
-![Screen Recording 2022-02-06 at 17 49 18](https://user-images.githubusercontent.com/74935134/152691696-a15fbf13-2baf-4c57-91db-60ec43700496.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/74935134/153014017-58b8dbdd-eed8-4cab-9c62-c87dcfe9cf20.gif)
+
